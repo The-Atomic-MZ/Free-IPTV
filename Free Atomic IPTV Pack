@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U $ExtFilter="Adult"
 #EXTINF:0,Penthouse Quickies HD
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/252.ts
 #EXTINF:0,Penthouse Passion HD
@@ -19,7 +20,7 @@ http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/311.ts
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/299.ts
 
 
-
+#EXTM3U $ExtFilter="German"
 #EXTINF:-1,3+
 http://91.189.202.114:8080/play/a0g3
 #EXTINF:-1,3sat HD
