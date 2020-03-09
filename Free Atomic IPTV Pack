@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:0,Penthouse Quickies HD_Website : ahlakid.com
+#EXTINF:0,Penthouse Quickies HD
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/252.ts
 #EXTINF:0,Penthouse Passion HD
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/253.ts
-#EXTINF:0,Penthouse Gold_Website : ahlakid.com
+#EXTINF:0,Penthouse Gold
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/272.ts
-#EXTINF:0,Pink Erotic
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/286.ts
-#EXTINF:0,Pink Erotic 2
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/287.ts
-#EXTINF:0,Pink Erotic 3_Website : ahlakid.com
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/288.ts
-#EXTINF:0,Pink Erotic 4
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/289.ts
-#EXTINF:0,Pink Erotic 5
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/290.ts
-#EXTINF:0,Pink Erotic 6_Website : ahlakid.com
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/291.ts
 #EXTINF:0,XY Max HD
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/243.ts
-#EXTINF:0,XY Mix HD_Website : ahlakid.com
+#EXTINF:0,XY Mix HD
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/245.ts
 #EXTINF:0,Prive
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/271.ts
@@ -29,5 +17,98 @@ http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/675.ts
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/311.ts
 #EXTINF:0,French Lover Europe
 http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/299.ts
-#EXTINF:0,PLAYBOY TV_Website : ahlakid.com
-http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/66.ts
+
+
+
+#EXTINF:-1,3+
+http://91.189.202.114:8080/play/a0g3
+#EXTINF:-1,3sat HD
+http://91.189.202.114:8080/play/a0fk
+#EXTINF:-1,ANIXE HD
+http://91.189.202.114:8080/play/a0e1
+#EXTINF:-1,ARD-alpha HD
+http://91.189.202.114:8080/play/a0f6
+#EXTINF:-1,ATV HD
+http://91.189.202.114:8080/play/a0fs
+#EXTINF:-1,BR Fernsehen Süd HD
+http://91.189.202.114:8080/play/a0fe
+#EXTINF:-1,Comedy Central HD
+http://91.189.202.114:8080/play/a0e2
+#EXTINF:-1,DMAX HD
+http://91.189.202.114:8080/play/a0ey
+#EXTINF:-1,Das Erste HD
+http://91.189.202.114:8080/play/a0fa
+#EXTINF:-1,Kabel Eins Doku HD
+http://91.189.202.114:8080/play/a0ev
+#EXTINF:-1,KiKA HD
+http://91.189.202.114:8080/play/a0fl
+#EXTINF:-1,MDR Sachsen HD
+http://91.189.202.114:8080/play/a0f1
+#EXTINF:-1,MTV HD
+http://91.189.202.114:8080/play/a0eh
+#EXTINF:-1,NDR FS NDS HD
+http://91.189.202.114:8080/play/a0ff
+#EXTINF:-1,NITRO HD
+http://91.189.202.114:8080/play/a0ek
+#EXTINF:-1,ONE HD
+http://91.189.202.114:8080/play/a0f5
+#EXTINF:-1,ORF III HD
+http://91.189.202.114:8080/play/a0fv
+#EXTINF:-1,ORF1 HD
+http://91.189.202.114:8080/play/a0fy
+#EXTINF:-1,ORF2W HD
+http://91.189.202.114:8080/play/a0fz
+#EXTINF:-1,PULS 24 HD
+http://91.189.202.114:8080/play/a0g6
+#EXTINF:-1,PULS 4 HD Austria
+http://91.189.202.114:8080/play/a0g5
+#EXTINF:-1,ProSieben HD
+http://91.189.202.114:8080/play/a0er
+#EXTINF:-1,Radio Bremen HD
+http://91.189.202.114:8080/play/a0f8
+#EXTINF:-1,SAT.1 HD
+http://91.189.202.114:8080/play/a0eq
+#EXTINF:-1,SIXX HD
+http://91.189.202.114:8080/play/a0et
+#EXTINF:-1,SPORT1 HD
+http://91.189.202.114:8080/play/a0e8
+#EXTINF:-1,SR Fernsehen HD
+http://91.189.202.114:8080/play/a0f7
+#EXTINF:-1,SWR BW HD
+http://91.189.202.114:8080/play/a0fc
+#EXTINF:-1,ServusTV HD Deutschland
+http://91.189.202.114:8080/play/a0g1
+#EXTINF:-1,ServusTV HD Oesterreich
+http://91.189.202.114:8080/play/a0g0
+#EXTINF:-1,TELE 5 HD
+http://91.189.202.114:8080/play/a0ex
+#EXTINF:-1,TLC HD
+http://91.189.202.114:8080/play/a0ef
+#EXTINF:-1,VOX HD
+http://91.189.202.114:8080/play/a0eb
+#EXTINF:-1,WDR HD Köln
+http://91.189.202.114:8080/play/a0fi
+#EXTINF:-1,WELT HD
+http://91.189.202.114:8080/play/a0e3
+#EXTINF:-1,ZDF HD
+http://91.189.202.114:8080/play/a0fo
+#EXTINF:-1,ZDFinfo HD
+http://91.189.202.114:8080/play/a0fm
+#EXTINF:-1,Zee One HD
+http://91.189.202.114:8080/play/a0eg
+#EXTINF:-1,arte HD
+http://91.189.202.114:8080/play/a0fb
+#EXTINF:-1,hr-fernsehen HD
+http://91.189.202.114:8080/play/a0f2
+#EXTINF:-1,kabel eins HD
+http://91.189.202.114:8080/play/a0es
+#EXTINF:-1,n-tv HD
+http://91.189.202.114:8080/play/a0ec
+#EXTINF:-1,phoenix HD
+http://91.189.202.114:8080/play/a0fg
+#EXTINF:-1,rbb Berlin HD
+http://91.189.202.114:8080/play/a0f0
+#EXTINF:-1,tagesschau24 HD
+http://91.189.202.114:8080/play/a0f4
+#EXTINF:-1,zdf_neo HD
+http://91.189.202.114:8080/play/a0fp
